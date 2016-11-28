@@ -1,0 +1,12 @@
+haosou.com 106.120.160.134 -
+www.so.com 106.120.160.134 -
+p.ssl.qhimg.com 104.192.110.245 -
+p.ssl.qhimg.com 104.192.110.245 -
+p.ssl.haosou.com 125.88.193.158 -
+s.qhupdate.com 106.38.184.212 -
+socm.dmp.360.cn 36.110.210.167 -
+i.so.com 106.120.160.198 -
+hs.qhupdate.com 106.38.184.178 -
+s.ssl.qhres.com 125.64.98.70 -
+s.ssl.qhres.com 125.64.98.70 -
+p.ssl.qhimg.com 104.192.110.245 -

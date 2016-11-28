@@ -1,0 +1,10 @@
+thewhizmarketing.com 94.31.0.80 -
+www.thewhizmarketing.com 94.31.0.80 -
+fonts.googleapis.com 172.217.16.202 Google
+thewhizmarketing.com 94.31.0.80 -
+www.google-analytics.com 172.217.23.78 Google
+www.thewhizmarketing.com 94.31.0.80 -
+www.thewhizmarketing.com 94.31.0.80 -
+www.thewhizmarketing.com 94.31.0.80 -
+fonts.gstatic.com 172.217.23.67 Google
+fonts.gstatic.com 172.217.23.67 Google

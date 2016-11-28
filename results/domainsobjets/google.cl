@@ -1,0 +1,9 @@
+google.cl 172.217.23.67 Google
+www.google.cl 216.58.198.3 Google
+ssl.gstatic.com 172.217.23.67 Google
+www.google.cl 216.58.198.3 Google
+www.google.cl 216.58.198.3 Google
+www.google.cl 216.58.198.3 Google
+www.google.cl 216.58.198.3 Google
+clients1.google.cl 172.217.23.67 Google
+ssl.gstatic.com 172.217.23.67 Google

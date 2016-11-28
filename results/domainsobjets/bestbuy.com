@@ -1,0 +1,17 @@
+bestbuy.com 88.221.144.96 -
+www.bestbuy.com 2.16.12.212 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+images.bestbuy.com 193.206.135.176 Akamai
+metrics.bestbuy.com 66.117.29.37 -
+metrics.bestbuy.com 66.117.29.37 -
+metrics.bestbuy.com 66.117.29.37 -

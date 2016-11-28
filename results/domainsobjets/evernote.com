@@ -1,0 +1,32 @@
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+www.google-analytics.com 172.217.23.78 Google
+www.google-analytics.com 172.217.23.78 Google
+evernote.com 204.154.94.73 -
+stats.g.doubleclick.net 74.125.206.156 Google
+www.google.com 216.58.208.100 Google
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+corpassets.evernote.com 23.65.210.70 Akamai
+corpassets.evernote.com 23.65.210.70 Akamai
+corpassets.evernote.com 23.65.210.70 Akamai
+www.google.it 216.58.198.3 Google
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+corpassets.evernote.com 23.65.210.70 Akamai
+corpassets.evernote.com 23.65.210.70 Akamai
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+www.google-analytics.com 172.217.23.78 Google
+evernote.com 204.154.94.73 -
+evernote.com 204.154.94.73 -
+cdn1.evernote.com 23.223.67.48 Akamai
+cdn.captora.com 54.192.24.80 Amazon CloudFront
+www.evernote.com 204.154.94.81 -
+pixel.captora.com 54.192.24.80 Amazon CloudFront

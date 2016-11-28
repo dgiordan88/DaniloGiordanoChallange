@@ -1,0 +1,13 @@
+godaddy.com 208.109.4.218 -
+www.godaddy.com 72.247.197.45 Akamai
+it.godaddy.com 23.223.64.71 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai
+img1.wsimg.com 23.205.181.170 Akamai

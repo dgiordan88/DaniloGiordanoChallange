@@ -1,0 +1,14 @@
+ups.com 153.2.228.50 -
+www.ups.com 23.223.74.82 Akamai
+www.ups.com 23.223.74.82 Akamai
+www.ups.com 23.223.74.82 Akamai
+www.ups.com 23.223.74.82 Akamai
+tags.tiqcdn.com 72.247.196.244 Akamai
+www.ups.com 23.223.74.82 Akamai
+www.ups.com 23.223.74.82 Akamai
+www.ups.com 23.223.74.82 Akamai
+www.ups.com 23.223.74.82 Akamai
+tags.tiqcdn.com 72.247.196.244 Akamai
+www.ups.com 23.223.74.82 Akamai
+tags.tiqcdn.com 72.247.196.244 Akamai
+tags.tiqcdn.com 72.247.196.244 Akamai

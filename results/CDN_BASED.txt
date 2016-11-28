@@ -1,0 +1,209 @@
+google.com Google 9 9
+youtube.com Google 99 99
+facebook.com Facebook 31 31
+yahoo.com Yahoo 34 37
+google.co.in Google 7 7
+amazon.com Amazon CloudFront 29 33
+google.co.jp Google 8 8
+twitter.com Twitter 55 67
+instagram.com Akamai 18 29
+linkedin.com Akamai 21 30
+google.de Google 9 9
+google.co.uk Google 9 9
+google.fr Google 9 9
+yahoo.co.jp Yahoo 30 41
+google.ru Google 9 9
+google.com.br Google 7 7
+reddit.com Fastly 48 62
+onclickads.net Google 11 15
+ebay.com Akamai 152 180
+google.it Google 7 7
+aliexpress.com Akamai 67 89
+msn.com Akamai 13 23
+wordpress.com WordPress 25 48
+blogspot.com Google 60 61
+google.es Google 9 9
+microsoft.com Akamai 57 78
+google.com.mx Google 8 8
+apple.com Akamai 46 48
+google.ca Google 7 7
+popads.net CDN77 30 35
+naver.com Akamai 77 87
+google.com.hk Google 8 8
+amazon.co.jp Amazon CloudFront 25 28
+imgur.com Fastly 79 125
+pinterest.com Akamai 12 17
+office.com Akamai 25 33
+google.co.kr Google 8 8
+paypal.com Akamai 25 29
+google.com.tr Google 8 8
+xinhuanet.com ChinaCache 89 113
+github.com Fastly 15 17
+google.co.id Google 8 8
+google.com.au Google 9 9
+google.com.tw Google 9 9
+xhamster.com Edgecast 91 99
+microsoftonline.com Akamai 5 8
+amazon.de Amazon CloudFront 47 56
+cctv.com Akamai 17 20
+google.pl Google 8 8
+people.com.cn ChinaCache 99 124
+ask.com Akamai 8 14
+nytimes.com Akamai 128 182
+amazon.in Amazon CloudFront 127 132
+blogger.com Google 60 61
+amazon.co.uk Amazon CloudFront 48 54
+bbc.com Akamai 42 65
+google.com.eg Google 7 7
+google.com.sa Google 9 9
+google.co.th Google 8 8
+google.com.ar Google 8 8
+google.com.pk Google 8 8
+zhihu.com Akamai 15 20
+bbc.co.uk Akamai 51 77
+dailymotion.com Edgecast 33 41
+rakuten.co.jp Akamai 754 780
+ebay.de Akamai 135 143
+espn.com Akamai 49 72
+xvideos.com Edgecast 40 55
+vimeo.com Fastly 77 121
+alipay.com Akamai 8 12
+soundcloud.com Edgecast 19 25
+ebay.co.uk Akamai 154 179
+google.nl Google 7 7
+daum.net Akamai 62 79
+slideshare.net Akamai 17 33
+google.co.ve Google 9 9
+google.co.za Google 8 8
+popcash.net NetDNA 43 53
+uptodown.com Akamai 44 59
+mediafire.com Akamai 42 67
+china.com Akamai 11 19
+steampowered.com Akamai 19 24
+flipkart.com Akamai 49 75
+theguardian.com Fastly 16 27
+google.gr Google 8 8
+google.com.vn Google 8 8
+blogspot.co.id Google 7 8
+godaddy.com Akamai 12 13
+google.com.co Google 9 9
+google.com.ph Google 8 8
+indiatimes.com Akamai 131 163
+google.be Google 9 9
+google.com.ua Google 9 9
+w3schools.com Google 19 30
+washingtonpost.com Instart Logic 79 109
+foxnews.com Akamai 122 226
+buzzfeed.com Fastly 113 133
+google.se Google 8 8
+google.ro Google 9 9
+amazon.it Amazon CloudFront 142 161
+huanqiu.com ChinaCache 78 121
+amazon.fr Amazon CloudFront 46 51
+chinadaily.com.cn ChinaCache 46 63
+wikihow.com CDNetworks 63 102
+google.com.sg Google 8 8
+github.io Fastly 24 38
+google.cn Google 4 4
+google.at Google 8 8
+bestbuy.com Akamai 13 17
+google.az Google 7 7
+ameblo.jp Akamai 94 113
+google.com.ng Google 9 9
+doubleclick.net Google 153 153
+mercadolivre.com.br Akamai 37 47
+trello.com Amazon CloudFront 23 39
+fbcdn.net Facebook 31 31
+gearbest.com Akamai 159 291
+google.com.pe Google 8 9
+google.ch Google 8 8
+wellsfargo.com Akamai 37 49
+google.cz Google 9 9
+scribd.com Fastly 48 69
+naver.jp Amazon CloudFront 34 49
+blogspot.in Google 9 10
+twimg.com Twitter 1 1
+google.ae Google 8 8
+goo.ne.jp Akamai 77 148
+skype.com Akamai 30 42
+google.cl Google 9 9
+google.pt Google 8 8
+shutterstock.com Akamai 46 91
+google.dz Google 8 8
+ikea.com Akamai 6 11
+yelp.com Fastly 47 89
+douyu.com ChinaNetCenter 143 204
+roblox.com Akamai 27 51
+onedio.com Amazon CloudFront 124 179
+sourceforge.net Akamai 76 145
+zillow.com Amazon CloudFront 16 26
+google.no Google 9 9
+espncricinfo.com Akamai 81 118
+xnxx.com Highwinds 62 79
+themeforest.net Amazon CloudFront 94 113
+amazon.es Amazon CloudFront 25 29
+google.hu Google 9 14
+tripadvisor.com Akamai 55 94
+asos.com Akamai 42 50
+freepik.com Akamai 59 110
+directrev.com Amazon CloudFront 19 31
+google.co.il Google 8 8
+jd.com Edgecast 13 19
+avg.com Akamai 49 54
+google.ie Google 8 8
+google.com.bd Google 7 7
+media.tumblr.com Amazon CloudFront 1 1
+hp.com Akamai 51 99
+kaskus.co.id Highwinds 99 180
+gmx.net Akamai 150 257
+go.com Level 3 16 28
+web.de Akamai 162 271
+goodreads.com Amazon CloudFront 90 114
+kakaku.com Akamai 118 194
+usatoday.com Akamai 85 95
+google.dk Google 9 9
+samsung.com Akamai 54 69
+wsj.com Akamai 52 74
+google.fi Google 9 9
+repubblica.it Akamai 89 121
+wix.com Fastly 53 88
+hotstar.com Akamai 50 87
+ndtv.com Akamai 86 129
+xfinity.com Akamai 91 161
+bloomberg.com Akamai 38 46
+fiverr.com Instart Logic 64 79
+icloud.com Akamai 10 11
+bukalapak.com Edgecast 123 187
+homedepot.com Akamai 63 70
+americanexpress.com Akamai 37 50
+steamcommunity.com Akamai 52 55
+blogspot.jp Google 9 10
+google.sk Google 8 8
+tvplusnewtab.com Amazon CloudFront 10 15
+ebay.it Akamai 136 148
+googlevideo.com Google 9 10
+dell.com Akamai 31 57
+baike.com ChinaNetCenter 142 174
+messenger.com Facebook 42 44
+groupon.com Akamai 31 47
+amazon.ca Amazon CloudFront 26 29
+researchgate.net Amazon CloudFront 71 84
+ouo.io Google 29 57
+blogspot.mx Google 8 9
+ups.com Akamai 13 14
+hola.com Akamai 76 111
+capitalone.com Akamai 23 37
+ask.fm Akamai 35 43
+ign.com Akamai 85 119
+kickstarter.com Fastly 42 61
+cricbuzz.com Google 69 119
+mercadolibre.com.ar Akamai 46 55
+prezi.com Akamai 37 62
+ebay.com.au Akamai 150 156
+reuters.com Amazon CloudFront 52 87
+google.kz Google 8 8
+atlassian.net Amazon CloudFront 28 40
+mit.edu Akamai 27 32
+webmd.com Akamai 169 216
+china.com.cn ChinaCache 118 201
+163.com ChinaNetCenter 55 94

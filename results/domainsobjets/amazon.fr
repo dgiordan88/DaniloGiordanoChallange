@@ -1,0 +1,51 @@
+amazon.fr 176.32.108.178 -
+amazon.fr 176.32.108.178 -
+www.amazon.fr 178.236.7.228 -
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+www.amazon.fr 178.236.7.228 -
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-na.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+images-eu.ssl-images-amazon.com 52.222.155.209 Amazon CloudFront
+www.amazon.fr 178.236.7.228 -

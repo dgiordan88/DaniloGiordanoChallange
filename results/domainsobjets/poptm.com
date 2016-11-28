@@ -1,0 +1,41 @@
+poptm.com 104.20.6.23 -
+poptm.com 104.20.6.23 -
+ajax.googleapis.com 216.58.214.106 Google
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+fonts.googleapis.com 172.217.16.202 Google
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+cdnjs.cloudflare.com 198.41.214.68 Cloudflare
+cdn.livechatinc.com 93.184.221.168 -
+widgets.getsitecontrol.com 62.210.249.41 KeyCDN
+www.google-analytics.com 172.217.23.78 Google
+static.poptm.com 104.20.6.23 -
+d31qbv1cthcecs.cloudfront.net 54.192.25.242 Amazon CloudFront
+fonts.gstatic.com 172.217.23.67 Google
+static.poptm.com 104.20.6.23 -
+fonts.gstatic.com 172.217.23.67 Google
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+fonts.gstatic.com 172.217.23.67 Google
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+cdnjs.cloudflare.com 198.41.214.68 Cloudflare
+www.google-analytics.com 172.217.23.78 Google
+static.poptm.com 104.20.6.23 -
+static.poptm.com 104.20.6.23 -
+secure.livechatinc.com 216.127.68.68 -
+cloudfront-labs.amazonaws.com 72.21.202.25 -
+d5nxst8fruw4z.cloudfront.net 52.222.149.39 Amazon CloudFront
+gscst-84a.kxcdn.com 94.126.16.224 KeyCDN
+a250255424057fda7c1de5cb196ac1925.profile.ewr50.cloudfront.net 52.84.32.87 Amazon CloudFront
+gscm-84a.kxcdn.com 62.210.249.41 KeyCDN
+secure.livechatinc.com 216.127.68.68 -
+secure.livechatinc.com 216.127.68.68 -
+secure.livechatinc.com 216.127.68.68 -
+cdn.livechatinc.com 93.184.221.168 -
+cdn.livechatinc.com 93.184.221.168 -

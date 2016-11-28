@@ -1,0 +1,9 @@
+google.com 172.217.23.78 Google
+www.google.it 216.58.208.99 Google
+ssl.gstatic.com 172.217.23.67 Google
+www.google.it 216.58.208.99 Google
+www.google.it 216.58.208.99 Google
+www.google.it 216.58.208.99 Google
+www.google.it 216.58.208.99 Google
+clients1.google.it 172.217.23.67 Google
+ssl.gstatic.com 172.217.23.67 Google

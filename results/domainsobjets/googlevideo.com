@@ -1,0 +1,10 @@
+googlevideo.com 216.58.198.4 -
+video.google.com 172.217.16.206 Google
+www.google.com 216.58.198.4 Google
+ssl.gstatic.com 172.217.23.67 Google
+www.google.com 216.58.198.4 Google
+www.google.com 216.58.198.4 Google
+www.google.com 216.58.198.4 Google
+www.google.com 216.58.198.4 Google
+clients1.google.com 172.217.23.78 Google
+ssl.gstatic.com 172.217.23.67 Google

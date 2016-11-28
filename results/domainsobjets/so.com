@@ -1,0 +1,9 @@
+so.com 42.236.9.70 -
+www.so.com 106.120.160.134 -
+p.ssl.qhimg.com 124.116.185.134 -
+p.ssl.qhimg.com 124.116.185.134 -
+s.qhupdate.com 106.38.184.212 -
+hs.qhupdate.com 125.88.193.197 -
+p.ssl.haosou.com 36.110.210.154 -
+socm.dmp.360.cn 36.110.210.167 -
+i.so.com 106.120.160.198 -

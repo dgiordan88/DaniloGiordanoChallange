@@ -1,0 +1,12 @@
+putlockers.ch 104.20.15.207 -
+image4.putlockers.ch 104.20.15.207 -
+image4.putlockers.ch 104.20.15.207 -
+image4.putlockers.ch 104.20.15.207 -
+image4.putlockers.ch 104.20.15.207 -
+connect.facebook.net 31.13.92.14 Facebook
+s10.histats.com 208.43.241.179 -
+staticxx.facebook.com 31.13.86.4 Facebook
+www.facebook.com 31.13.86.36 Facebook
+staticxx.facebook.com 31.13.86.4 Facebook
+s4.histats.com 208.43.241.178 -
+e.dtscout.com 69.4.231.31 -

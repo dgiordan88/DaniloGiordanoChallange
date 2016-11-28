@@ -1,0 +1,14 @@
+babytree.com 60.205.82.219 -
+m.babytree.com 60.205.82.219 -
+static01.babytreeimg.com 203.130.56.15 ChinaNetCenter
+static01.babytreeimg.com 203.130.56.15 ChinaNetCenter
+static01.babytreeimg.com 203.130.56.15 ChinaNetCenter
+static01.babytreeimg.com 203.130.56.15 ChinaNetCenter
+static01.babytreeimg.com 203.130.56.15 ChinaNetCenter
+img02.babytreeimg.com 14.215.78.42 -
+log.babytree.com 60.205.82.219 -
+static02.babytreeimg.com 14.215.78.45 -
+static01.babytreeimg.com 203.130.56.15 ChinaNetCenter
+pingjs.qq.com 203.205.151.212 -
+s.union.360.cn 106.39.219.41 -
+s0.ssl.qhimg.com 104.192.110.245 -

@@ -1,0 +1,25 @@
+paytm.com 52.220.121.63 -
+paytm.com 52.220.121.63 -
+fonts.googleapis.com 172.217.21.202 Google
+fonts.gstatic.com 172.217.23.67 Google
+assetscdn.paytm.com 23.223.69.69 Akamai
+assetscdn.paytm.com 23.223.69.69 Akamai
+assetscdn.paytm.com 23.223.69.69 Akamai
+assetscdn.paytm.com 23.223.69.69 Akamai
+assetscdn.paytm.com 23.223.69.69 Akamai
+assetscdn.paytm.com 23.223.69.69 Akamai
+assetscdn.paytm.com 23.223.69.69 Akamai
+www.googletagmanager.com 172.217.23.72 Google
+catalog.paytm.com 54.255.156.246 -
+cdnjs.cloudflare.com 198.41.214.68 Cloudflare
+u.heatmap.it 46.105.202.39 -
+u.heatmap.it 46.105.202.39 -
+catalog.paytm.com 54.255.156.246 -
+eu2.heatmap.it 151.80.33.97 -
+www.googleadservices.com 172.217.16.2 Google
+connect.facebook.net 31.13.93.7 Facebook
+googleads.g.doubleclick.net 216.58.198.2 Google
+www.facebook.com 31.13.86.36 Facebook
+www.google.com 216.58.208.100 Google
+d22vyp49cxb9py.cloudfront.net 52.222.149.40 Amazon CloudFront
+www.google.it 216.58.198.3 Google

@@ -1,0 +1,11 @@
+ikea.com 69.58.186.114 -
+www.ikea.com 213.254.15.240 Akamai
+www.ikea.com 213.254.15.240 Akamai
+www.ikea.com 213.254.15.240 Akamai
+tags.tiqcdn.com 68.232.35.180 Edgecast
+www.ikea.com 213.254.15.240 Akamai
+www.ikea.com 213.254.15.240 Akamai
+www.ikea.com 213.254.15.240 Akamai
+tags.tiqcdn.com 68.232.35.180 Edgecast
+metrics.ikea.com 66.235.153.38 -
+tags.tiqcdn.com 68.232.35.180 Edgecast

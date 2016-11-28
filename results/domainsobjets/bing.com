@@ -1,0 +1,14 @@
+bing.com 204.79.197.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -
+www.bing.com 13.107.21.200 -

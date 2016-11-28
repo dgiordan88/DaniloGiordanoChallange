@@ -1,0 +1,17 @@
+pinterest.com 104.156.85.84 -
+pinterest.com 104.156.85.84 -
+www.pinterest.com 151.101.192.84 Fastly
+it.pinterest.com 151.101.192.84 Fastly
+s-media-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+s-passets-cache-ak0.pinimg.com 72.247.199.53 Akamai
+it.pinterest.com 151.101.192.84 Fastly

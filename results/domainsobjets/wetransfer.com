@@ -1,0 +1,14 @@
+static.js.xywy.com 14.215.78.42 -
+page.xywy.com 42.62.89.132 -
+static.img.xywy.com 14.215.78.42 -
+xs3.op.xywy.com 43.242.50.194 -
+page.xywy.com 42.62.89.132 -
+page.xywy.com 42.62.89.132 -
+page.xywy.com 42.62.89.132 -
+page.xywy.com 42.62.89.132 -
+xs3.op.xywy.com 43.242.50.196 -
+stat-z.xywy.com 43.242.50.183 -
+xs3.op.xywy.com 43.242.50.196 -
+xs3.op.xywy.com 43.242.50.196 -
+wetransfer.com 54.229.131.250 -
+wetransfer.com 54.229.131.250 -

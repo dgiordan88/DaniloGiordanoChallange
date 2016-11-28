@@ -1,0 +1,17 @@
+whatsapp.com 192.155.212.202 -
+www.whatsapp.com 169.44.82.102 -
+www.google-analytics.com 172.217.23.78 Google
+www.google-analytics.com 172.217.23.78 Google
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.whatsapp.com 169.44.82.102 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.cdn.whatsapp.net 31.13.93.51 -
+www.whatsapp.com 169.44.82.102 -
+www.whatsapp.com 169.44.82.102 -
+www.whatsapp.com 169.44.82.102 -

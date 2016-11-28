@@ -1,0 +1,9 @@
+google.fr 172.217.23.67 Google
+www.google.fr 216.58.198.35 Google
+ssl.gstatic.com 172.217.23.67 Google
+www.google.fr 216.58.198.35 Google
+www.google.fr 216.58.198.35 Google
+www.google.fr 216.58.198.35 Google
+www.google.fr 216.58.198.35 Google
+clients1.google.fr 172.217.23.67 Google
+ssl.gstatic.com 172.217.23.67 Google

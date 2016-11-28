@@ -1,0 +1,12 @@
+alipay.com 110.76.20.33 -
+www.alipay.com 110.76.18.156 -
+zos.alipayobjects.com 195.59.70.224 -
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+img.alicdn.com 23.223.64.85 Akamai
+t.alipayobjects.com 195.59.70.224 -

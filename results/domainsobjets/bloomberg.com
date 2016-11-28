@@ -1,0 +1,46 @@
+bloomberg.com 69.187.23.20 -
+www.bloomberg.com 23.223.64.125 Akamai
+www.bloomberg.com 23.223.64.125 Akamai
+cdn.optimizely.com 72.247.208.161 -
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Fastly
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+nav.bloomberg.com 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+nav.bloomberg.com 23.223.64.125 Akamai
+nav.bloomberg.com 23.223.64.125 Akamai
+www.bbthat.com 54.192.27.64 Amazon CloudFront
+www.bbthat.com 54.192.27.64 Amazon CloudFront
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Fastly
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+www.bloomberg.com 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Fastly
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+assets.bwbx.io 23.223.64.125 Akamai
+www.bloomberg.com 23.223.64.125 Akamai
+static.parsely.com 52.222.149.177 Amazon CloudFront
